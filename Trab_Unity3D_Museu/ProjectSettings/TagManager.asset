@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TitleTag
+  - ArtistTag
+  - YearTag
+  - MaterialsTag
+  - CreatorTag
+  - InterpretationsTag
+  - SymbolismTag
+  - DescriptionTag
+  - ArtTag
+  - Type01
+  - Type02
+  - Type03
+  - Type04
+  - FrameTag
+  - MainCam
+  - SuppCam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
